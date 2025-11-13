@@ -1,0 +1,7 @@
+# Hardware Tracker Template Requirements
+
+# Core scraping framework
+scrapy>=2.11.0
+
+# Configuration file support
+pyyaml>=6.0
